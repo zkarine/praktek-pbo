@@ -1,0 +1,5 @@
+//algoritma
+
+INPUT jari-jari dengan angka
+INPUT pi dengan 3/14
+hitung "keliling lingkaran"= 2 kali pi kali

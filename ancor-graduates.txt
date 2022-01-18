@@ -1,0 +1,27 @@
+// algoritma
+
+1> inpit nama
+2> input nilai
+3> input absen
+
+a. jika benar hasilnya tampilkan nama
+b. jika tidak hasilnya tampilkan 'maaf anda tidak lulus'
+
+selesai
+
+//pseudocode
+
+INPUT "name" with any string
+
+INPUT "nilai" with any number
+
+INPUT "absen" with any number
+
+ Read "name","nilai","absen"
+     if nilai > AND absen < 5
+      DISPLAY nama: " siswa ": "nilai"lulus
+      else
+      DISPLAY nama: "siswa":"nilai" tidak lulus
+      ENDIF
+selesai 
+
